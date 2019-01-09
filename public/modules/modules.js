@@ -1,7 +1,13 @@
 var ui = {};
 
 ui.navigation = `
-    <h2>Hello</h2>
+    <nav class="navbar navbar-default">
+        <div class="container-fluid">
+            <ul class="nav navbar-nav">
+                <li><a href="#">Login</a></li>
+            </ul>
+        </div>
+    </nav>
     <!-- ------------- YOUR CODE: Navigation UI ------------- --> 
 `;
 
