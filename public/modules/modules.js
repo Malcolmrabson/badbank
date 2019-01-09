@@ -1,7 +1,7 @@
 var ui = {};
 
 ui.navigation = `
-    <nav class="navbar navbaar-default">
+    <nav class="navbar navbar-default">
         <div class = "container-fluid">
             <ul class="nav navbar-nav">
                 <li><a href="#">Login</li>
