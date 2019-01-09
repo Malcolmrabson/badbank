@@ -1,6 +1,12 @@
 var ui = {};
 
 ui.navigation = `
+    <nav class="navbar navbaar-default">
+        <ul class="nav navbar-nav">
+            <li><a href="#">Login</li>
+        </ul>
+
+    </nav>
     <!-- ------------- YOUR CODE: Navigation UI ------------- --> 
 `;
 
