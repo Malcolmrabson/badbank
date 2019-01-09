@@ -1,7 +1,7 @@
 var ui = {};
 
 ui.navigation = `
-    Hello
+    <h2>Hello</h2>
     <!-- ------------- YOUR CODE: Navigation UI ------------- --> 
 `;
 
