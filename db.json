@@ -1,0 +1,68 @@
+{
+  "accounts": [
+    {
+      "name": "Malcolm",
+      "email": "test@dariel.co.za",
+      "balance": 1000,
+      "password": "password",
+      "transactions": [
+        {
+          "time": 1548337511886,
+          "amount": 500
+        },
+        {
+          "time": 1548337512536,
+          "amount": 500
+        },
+        {
+          "time": 1548337512998,
+          "amount": 500
+        },
+        {
+          "time": 1548337513326,
+          "amount": 500
+        },
+        {
+          "time": 1548337513629,
+          "amount": 500
+        },
+        {
+          "time": 1548337513946,
+          "amount": 500
+        },
+        {
+          "time": 1548337525193,
+          "amount": -2000
+        }
+      ]
+    },
+    {
+      "name": "Heinrich",
+      "email": "hw@dariel.co.za",
+      "balance": 0,
+      "password": "password",
+      "transactions": []
+    },
+    {
+      "name": "Test2",
+      "email": "test2@dariel.com",
+      "balance": 0,
+      "password": "password",
+      "transactions": []
+    },
+    {
+      "name": "Test2",
+      "email": "test2@dariel.com",
+      "balance": 0,
+      "password": "password",
+      "transactions": []
+    },
+    {
+      "name": "test3",
+      "email": "t@d.co.za",
+      "balance": 0,
+      "password": "password",
+      "transactions": []
+    }
+  ]
+}
